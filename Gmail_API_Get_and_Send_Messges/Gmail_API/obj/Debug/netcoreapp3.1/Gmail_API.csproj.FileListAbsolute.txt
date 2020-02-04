@@ -1,0 +1,399 @@
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.exe
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Gmail.v1.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Mvc.Grid.Core.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.csprojAssemblyReference.cache
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\staticwebassets\Gmail_API.StaticWebAssets.Manifest.cache
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\staticwebassets\Gmail_API.StaticWebAssets.xml
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorAssemblyInfo.cache
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorAssemblyInfo.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.AssemblyInfoInputs.cache
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.AssemblyInfo.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.TagHelpers.input.cache
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.TagHelpers.output.cache
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorCoreGenerate.cache
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Gmail\Content_Body.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Gmail\EmailContent.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Gmail\SendEmailView.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MvcGrid\_Grid.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MvcGrid\_Pager.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorTargetAssemblyInfo.cache
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorTargetAssemblyInfo.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.csproj.CopyComplete
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.Mvc.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.deps.json
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.runtimeconfig.json
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.runtimeconfig.dev.json
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.pdb
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.Views.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.Views.pdb
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.Views.pdb
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.dll
+D:\Software Development\C# All Persons\Vladimir Dinovich (Canada, Toronto)\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.pdb
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.csprojAssemblyReference.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\staticwebassets\Gmail_API.StaticWebAssets.Manifest.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\staticwebassets\Gmail_API.StaticWebAssets.xml
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorAssemblyInfo.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorAssemblyInfo.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.AssemblyInfoInputs.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.AssemblyInfo.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.pdb
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.exe
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.deps.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.runtimeconfig.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.runtimeconfig.dev.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.pdb
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.Views.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.Views.pdb
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.Mvc.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Gmail.v1.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\Mvc.Grid.Core.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.TagHelpers.input.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.TagHelpers.output.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorCoreGenerate.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Gmail\Content_Body.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Gmail\EmailContent.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Gmail\SendEmailView.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MvcGrid\_Grid.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MvcGrid\_Pager.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorTargetAssemblyInfo.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorTargetAssemblyInfo.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.Views.pdb
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.csproj.CopyComplete
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.exe
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.deps.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.runtimeconfig.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.runtimeconfig.dev.json
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.pdb
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.Views.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Gmail_API.Views.pdb
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.Mvc.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Google.Apis.Gmail.v1.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\Mvc.Grid.Core.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.csprojAssemblyReference.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\staticwebassets\Gmail_API.StaticWebAssets.Manifest.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\staticwebassets\Gmail_API.StaticWebAssets.xml
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorAssemblyInfo.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorAssemblyInfo.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.AssemblyInfoInputs.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.AssemblyInfo.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.TagHelpers.input.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.TagHelpers.output.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorCoreGenerate.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Gmail\Content_Body.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Gmail\EmailContent.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Gmail\SendEmailView.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MvcGrid\_Grid.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MvcGrid\_Pager.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorTargetAssemblyInfo.cache
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.RazorTargetAssemblyInfo.cs
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.Views.pdb
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.csproj.CopyComplete
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.dll
+D:\Repository\GitHub_Gerbut1986\Google-APIs\Gmail_API_Get_and_Send_Messges\Gmail_API\obj\Debug\netcoreapp3.1\Gmail_API.pdb
