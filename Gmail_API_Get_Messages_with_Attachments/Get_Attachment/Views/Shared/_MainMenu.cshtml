@@ -1,0 +1,88 @@
+﻿
+    <ul class="sidebar-menu" data-widget="tree">
+        <li class="header">HEADER</li>
+        <!-- Optionally, you can add icons to the links -->
+        <li class="active"><a asp-controller="Google" asp-action="GetListEmail"><i class="fa fa-link"></i> <span>Messages</span></a></li>
+        <li><a asp-controller="Google" asp-action="GoogleResponse"><i class="fa fa-link"></i> <span>Messages with Attachments</span></a></li>
+        <li class="treeview">
+            <a href="#">
+                <i class="fa fa-link"></i> <span>Send</span>
+                <span class="pull-right-container">
+                    <i class="fa fa-angle-left pull-right"></i>
+                </span>
+            </a>
+            <ul class="treeview-menu">
+                <li><a href="#">Link in level 2</a></li>
+                <li><a href="#">Link in level 2</a></li>
+            </ul>
+        </li>
+    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*<header>
+    <nav class="navbar navbar-dark bg-primary">
+        <div class="container">
+
+            @User.Identity.Name
+
+        </div>
+    </nav>
+</header>
+<div>
+    <main role="main" class="pb-3">
+
+        <div>
+            <div class="sidebar" data-color="purple" data-background-color="black" data-image="~/img/sidebar-2.jpg">
+                <div class="logo">
+                    <a class="simple-text logo-normal">
+                        Menu
+                    </a>
+                </div>
+                <div class="sidebar-wrapper">
+                    <ul class="nav">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Gmail" asp-action="GetListEmail" asp-route-LabelId="INBOX" asp-route-nameLabel="Received">
+                                <p>Received</p>
+                            </a>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        @RenderBody()
+    </main>
+</div>
+
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+
+@RenderSection("Scripts", required: false)*@
+

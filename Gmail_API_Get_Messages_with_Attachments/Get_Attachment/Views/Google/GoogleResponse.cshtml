@@ -1,0 +1,57 @@
+﻿@model IList<Get_Attachment.Models.My_Message>
+@Model
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using NonFactors.Mvc.Grid;
+
+<div class="content ">
+    <div class="container">
+        <!-- your content here -->
+        @if (User.Identity.IsAuthenticated && (Model != null))
+        {
+            <h2 class="text-info"> @ViewBag.Message </h2>
+
+            @(Html
+              .Grid(Model)
+              .Build(columns =>
+              {
+                  columns.Add(model => model.Id).Titled("Id");
+                  columns.Add(model => model.Title).Titled("Email title");
+                  columns.Add(model => model.From).Titled("From");
+                  columns.Add(model => model.Date_Received).Titled("Date (when received)");
+                  columns.Add(model => model.Attachment_Count).Titled("Attachments count");
+                  columns.Add(model => $"<input type =\"button\" data-toggle=\"modal\" data-target=\"#exampleModalCenter\"   " +
+                  $"value=\"View\" class=\"btn btn-primary btn-sm\" onClick=\"showEmailContent(\'{model.Id}\');\"></input>").Encoded(false);
+                  //columns.Add(model => $"<a class=\"btn btn-primary btn-sm\" href=\"{@Url.Action("GoToSendEmail", "Gmail")}?emailId={model.EmailId}\">Send</a>").Encoded(false);
+
+              })
+            .Empty("No data found")
+            .Filterable()
+            .Sortable()
+            .Css("table")
+            .AppendCss("table-hover")
+            .Pageable(pager =>
+            {
+                pager.PageSizes = new Dictionary<int, String> { { 5, "5" }, { 10, "10" }, { 20, "20" } };
+                pager.ShowPageSizes = true;
+                pager.PagesToDisplay = 3;
+                pager.CurrentPage = 1;
+                pager.RowsPerPage = 5;
+            })
+            )
+        }
+
+    </div>
+</div>
+
+
+<!-- Web Grid -->
+<script src="~/js/mvc-grid/mvc-grid.js"></script>
+<script>
+    [].forEach.call(document.getElementsByClassName('mvc-grid'), function (element) {
+        new MvcGrid(element);
+    });
+</script>

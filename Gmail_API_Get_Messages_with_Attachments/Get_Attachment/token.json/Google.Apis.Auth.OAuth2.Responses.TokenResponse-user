@@ -1,0 +1,10 @@
+{
+  
+  "access_token": "ya29.Il-zB6UK4K5k8zuG7hGCfd3_v3PV9nYD8S60Ne352OZ9WuaYSYEyFezjQvvg2moZxopTJ_viRFU0TmashpmGllDna1m0eBoTxYVEkcyoGXBaAlVp5ePwsc8qpE8hncT9BA",
+  "token_type": "Bearer",
+  "expires_in": 3600,
+  "refresh_token": "1//0cQRmZ_jl_c7eCgYIARAAGAwSNwF-L9IrnYGvVDdY0PxRL_r2vmrE3kA0V07b2w_3xrhonxlJdQXc2Q6WVqLk222_bt90Kkr6frA",
+  "scope": "https://mail.google.com/",
+  "Issued": "2019-11-30T15:04:32.888+02:00",
+  "IssuedUtc": "2019-11-30T13:04:32.888Z"
+}
