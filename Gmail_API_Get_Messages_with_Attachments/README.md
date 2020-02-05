@@ -1,4 +1,4 @@
-                       To build an app that will:
+                                                                   To build an app that will:
 
 1) allow the user log in using his/her Google Account and connect to Gmail account
 
@@ -9,9 +9,13 @@
 3) results should shown in the data grid that has the following columns:
 
  - emails titles
+ 
  - from
+ 
  - date (when received)
+ 
  - attachments count
+ 
  - "View" button. should trigger a popup with email content show in html editor (example: CK Editor) and list of attachments with links to them
  
 Additional Requirements:
