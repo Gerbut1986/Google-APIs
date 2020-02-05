@@ -1,5 +1,5 @@
 
-                                                            To build an app that will:
+                                                      To build an app that will:
 
 GMail View & Send Client:
 
