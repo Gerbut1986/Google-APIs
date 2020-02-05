@@ -1,4 +1,4 @@
-                                                                   To build an app that will:
+                                              To build an app that will:
 
 1) allow the user log in using his/her Google Account and connect to Gmail account
 
